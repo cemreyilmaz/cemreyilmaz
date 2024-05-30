@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cemreyilmaz
-- 👀 I’m interested in cognitive neuroscience. I actively use PsychToolbox on Matlab for stimulus presentation.
-- 🌱 I’m currently learning coding with R. I am working on my own package for data analysis using R.
-- 💞️ I’m a young researcher in the middle of her Ph.D. 
+- 👀 I’m interested in cognitive neuroscience. I actively use PsychToolbox on Matlab for stimulus presentation and R for data analysis.
+- 🌱 I’m currently working on a project on subjective visual experience.
+- 💞️ I’m a young researcher close to the end of her Ph.D. 
 - 📫 How to reach me: https://cemreyilmaz.com/
 
 <!---
