@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cemreyilmaz
-- 👀 I’m interested in cognitive neuroscience. I actively use PsychToolbox on Matlab for stimulus presentation and R for data analysis.
+- 👀 I’m a data scientist interested in cognitive neuroscience. I have strong experience with PsychToolbox on Matlab and R.
 - 🌱 I’m currently working on a project on subjective visual experience.
 - 💞️ I’m a young researcher close to the end of her Ph.D. 
 - 📫 How to reach me: https://cemreyilmaz.com/
