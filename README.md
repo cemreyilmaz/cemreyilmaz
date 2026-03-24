@@ -8,12 +8,10 @@ I work at the intersection of **data analysis, research, and system infrastructu
 
 ### 🛠️ Technical Toolbox
 
-| Category                 | Tools                                                                  |
-| :----------------------- | :--------------------------------------------------------------------- |
-| **Languages**            | `R`, `MATLAB`, `SQL (MySQL - querying & optimization)`, `Bash/Linux`   |
-| **Analysis & Modeling**  | `Statistical Inference`, `Hypothesis Testing`, `Multivariate Analysis` |
-| **Visualization**        | `ggplot2`, `Base R Graphics`                                           |
-| **Infrastructure & Ops** | `DigitalOcean`, `Linux Servers (self-managed)`, `Git/GitHub`           |
+* **Languages:** `R`, `MATLAB`, `SQL (MySQL - querying & optimization)`, `Bash/Linux`
+* **Analysis & Modeling:** `Statistical Inference`, `Hypothesis Testing`, `Multivariate Analysis`
+* **Visualization:** `ggplot2`, `Base R Graphics`
+* **Infrastructure & Ops:** `DigitalOcean`, `Linux Servers (self-managed)`, `Git/GitHub`
 
 ---
 
