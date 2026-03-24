@@ -2,8 +2,7 @@
 
 **Data Analyst with a background in Neuroscience & Technical Systems**
 
-I work at the intersection of **data analysis, research, and system infrastructure**.
-My focus is on extracting reliable insights from complex datasets while building and maintaining the technical environments that support them.
+I work at the intersection of **data analysis, research, and system infrastructure**. My focus is on extracting reliable insights from complex datasets while building and maintaining the technical environments that support them.
 
 ---
 
@@ -18,28 +17,11 @@ My focus is on extracting reliable insights from complex datasets while building
 
 ---
 
-### 💼 Experience & Expertise
+### 💼 Key Expertise
 
-#### **Technical Operations & Data Management** 🖥️
-
-* Administered and optimized **MySQL databases**, ensuring data integrity and efficient query performance
-* Managed **Linux-based servers** on DigitalOcean, maintaining high availability (~99.9% uptime)
-* Designed and implemented **technical solutions** to resolve performance bottlenecks and improve system efficiency
-* Handled **data migration, auditing, and cross-platform consistency**
-
-#### **Research & Statistical Modeling** 🧠
-
-* Analyzed **behavioral and experimental datasets** using R and MATLAB
-* Applied **statistical modeling and hypothesis testing** to investigate complex cognitive processes
-* Worked with **multivariate methods** to uncover patterns in high-dimensional data
-* Bridged research outputs with structured, reproducible analysis pipelines
-
-#### **Data Communication & Visualization** 📊
-
-* Transformed raw data into **clear, interpretable visualizations**
-* Focused on producing **insight-driven outputs**, not just descriptive plots
-* Used visualization as a tool to connect **technical findings with decision-making**
-
+* **Data & Ops:** 🖥️ Managing self-managed Linux servers and MySQL databases with a focus on 99.9% uptime and data integrity. 
+* **Statistical Modeling:** 🧠 Transforming raw research data into actionable insights and publication-quality visualizations. 
+* **Problem Solving:** 🛠️ Identifying technical bottlenecks and implementing optimizations in both data and infrastructure. 
 ---
 
 ### 📫 Connect with Me
